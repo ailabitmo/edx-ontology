@@ -1,0 +1,5 @@
+# Test tools
+pytest                    # test framework
+pytest-cov                # pytest extension for code coverage statistics
+
+mock                      # mocks and stubs library

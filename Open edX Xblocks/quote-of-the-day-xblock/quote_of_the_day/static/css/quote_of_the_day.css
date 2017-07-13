@@ -1,0 +1,22 @@
+/* CSS for QuoteOfTheDayXBlock */
+.quote_of_the_day_block .author {
+    font-weight: bold;
+}
+
+.quote_of_the_day_block .star {
+    cursor: pointer;
+    margin-right: 5px;
+    color: gold;
+}
+
+.quote_of_the_day_block .star:before {
+    content: "☆"
+}
+
+.quote_of_the_day_block .star:hover:before {
+    content: "★";
+}
+
+.quote-of-the-day_block p {
+    cursor: pointer;
+}

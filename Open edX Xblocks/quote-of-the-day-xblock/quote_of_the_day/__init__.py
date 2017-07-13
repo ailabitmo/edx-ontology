@@ -1,0 +1,1 @@
+from .quote_of_the_day import QuoteOfTheDayXBlock

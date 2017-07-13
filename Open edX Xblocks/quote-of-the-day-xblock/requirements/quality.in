@@ -1,0 +1,6 @@
+# Static analysis and code convention analyzers
+
+pycodestyle               # former pep8 - python code style checker
+pylint                    # static analysis code checker
+caniusepython3            # Additional Python 3 compatibility pylint checks
+isort                     # to standardize order of imports
